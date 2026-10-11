@@ -1,4 +1,9 @@
 # Customer Segmentation Using RFM Analysis and K-Means
+## Dataset
+
+Source:https://www.kaggle.com/datasets/vijayuv/onlineretail?utm_source=chatgpt.com
+
+A reduced sample of the original dataset was used for this project due to GitHub file size limitations.
 
 ## Project Overview
 
